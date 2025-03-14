@@ -1,6 +1,6 @@
 <p align="center"> 
   Number of Visitors<br>------------------------------------<br>
-  <img src="https://i.ibb.co/SX5qzdpF/danu.jpg" />
+  <img src="https://profile-counter.glitch.me/D4NU69/count.svg" />
 </p>
 
 
