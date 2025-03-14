@@ -22,6 +22,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=DANUx&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DANUx&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<img src="https://raw.githubusercontent.com/D4NU69/D4NU69/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DANUx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
