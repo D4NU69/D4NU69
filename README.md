@@ -4,8 +4,12 @@
 </p>
 
 
-# 💫 About Me:
-I'm Currntly Developing Madrazo Roleplay
+# 👨‍💻 About Me:  
+🔭 I’m currently developing [**Madrazo RP**](https://discord.gg/MADRAZORP), a feature-rich FiveM roleplay server designed for immersive gameplay. As a **FiveM Server Developer**, I specialize in creating custom scripts, optimizing server performance, and building engaging roleplay mechanics.  
+
+💻 My expertise includes **Lua**, **JavaScript**, and **SQL**, with experience in **server-side development**, **database management**, and **framework customization**. I'm passionate about crafting seamless roleplay experiences, from **job systems** to **economy balancing** and **weapon crafting**.  
+
+🚀 Always working on new features to take **Madrazo RP** to the next level!
 
 
 ## 🌐 Socials:
